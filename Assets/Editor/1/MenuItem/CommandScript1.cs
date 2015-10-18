@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-public static class CommandScript
+public static class CommandScript1
 {
 	[MenuItem("MyCommand/HelloWorld!")]
 	public static void HellowWorld ()
